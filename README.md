@@ -8,7 +8,7 @@ I run [Mattermind Labs](https://www.mattermind.com)
 
 Previously:
 
-- [Briink Intelligence](https://www.briink.com) AI for EU Taxonomy sustainability reporting
+- [Briink Intelligence](https://briink.com) AI for EU Taxonomy sustainability reporting
 - [South Pole](https://www.southpole.com/) GHG Accounting and Carbon Credits platform
 
 ## Connect
