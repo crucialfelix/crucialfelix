@@ -10,6 +10,7 @@ I'm currently building sensilla.io — an API SaaS for scraping data and buildi
 
 Previously:
 
+- [Apiday](https://www.apiday.com/) EU Taxonomy solution for companies and investment funds, powered with GPT 
 - [Briink Intelligence](https://www.briink.com) AI for EU Taxonomy sustainability reporting
 - [South Pole](https://www.southpole.com/) GHG Accounting and Carbon Credits platform
 
